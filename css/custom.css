@@ -1,0 +1,47 @@
+
+.intro {
+  background: white;
+  color: black;
+  padding-top: 20px;
+  margin-top: -20px;
+  padding-bottom: 20px;
+}
+
+h2 {
+  color: #474747;
+}
+
+h3 {
+  color: #474747;
+}
+
+h2.intro {
+  color: #377EBD;
+}
+
+h2 {
+  color: ;
+}
+
+
+.body {
+  background-color: #D9D9D9;
+  color:  ; 
+}
+
+.place {
+  font-weight: bold;
+}
+
+.FL {
+  display: inline;
+  font-style: italic;
+}
+
+.resume { 
+margin-bottom: 25px;
+}
+
+a {
+  color: black;
+}

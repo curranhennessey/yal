@@ -1,0 +1,39 @@
+body {
+  background-color: #D9D9D9;
+}
+
+.intro {
+  background-color: white;
+  padding-top: px;
+  margin-top: -20px;
+  padding-bottom: 15px;
+}
+
+h2 {
+  color: #377EBD;
+}
+
+h3 {
+  color: #474747;
+}
+
+img {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+a {
+  color: black;
+}
+
+img {
+  width: 40%;
+}
+
+.flame {
+  width: 28%;
+}
+
+.btn-txt {
+  color: white;
+}
